@@ -15,6 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Trying to learn everything I can.
+Trying to learn everything I can 
+Final year Computer Science student
+Wanting to get better at web dev currently, I primarily know Python/Java/C# and to a lesser degree C/C++
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VendrickNZ)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VendrickNZ&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
