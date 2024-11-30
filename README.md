@@ -15,8 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Trying to learn everything I can <br />
-Final year Computer Science student <br />
-Wanting to get better at web dev currently, I primarily know Python/Java/C#, and to a lesser degree C/C++ <br />
+Computer Science graduate with a particular interest in full stack and mobile development. <br />
+I am currently focusing on my mobile app and improving on my weaker areas such as relational databases and cloud computing. <br />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VendrickNZ&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VendrickNZ&exclude_repo=University&card_width=905)
+
+*excluding my University repo that has so much Python boilerplate given from labs/assignments it completely ruins the graph
