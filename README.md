@@ -16,7 +16,9 @@ Here are some ideas to get you started:
 -->
 
 Computer Science graduate with a particular interest in full stack and mobile development. <br />
-I am currently focusing on my mobile app and improving on my weaker areas such as relational databases and cloud computing. <br />
+In my spare time I am focusing on my mobile app and improving on my weaker areas such as relational databases and cloud computing. <br />
+
+Currently a full-stack swe at a fintech company in NZ. Mainly use TS/React/C#.
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VendrickNZ&exclude_repo=University&card_width=905)
 
